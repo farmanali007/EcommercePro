@@ -1,0 +1,64 @@
+======================set-up========================
+
+(1)==> sudo /opt/lampp/manager-linux-x64.run
+(2)==> php artisan serve
+(3)==> nvm install v18.8.0 (which update the node verstion from 14 to 18.8.0)
+(4)==> npm install 
+(5)==> npm run dev
+
+
+
+
+
+==============User User INfo==============
+=>FIRST ACCOUNT
+
+user type = 0
+user Name: Farman Ali
+user Email: farmanali1588594@gmail.com
+user password: 12345678
+
+
+=>SECOND ACCOUNT
+
+
+user type = 0
+user Name: user
+user Email: user@gmail.com
+user password: 12345678
+
+
+
+
+
+==============Admin User INfo==============
+
+
+=>FIRST ACCOUNT 
+
+user type = 1
+Admin Name: Engr.Farman 
+Admin Email: iamprogrammer2297678@gmail.com
+Admin password: 12345678
+
+
+=>SECOND ACCOUNT
+
+user type = 1
+Admin Name: admin
+Admin Email: admin@gmail.com
+Admin password: 12345678
+
+
+
+<form action="">
+
+          
+       <div style="padding-left: 35%; padding-top: 50px;"> 
+
+        <label for="">Email Greeting: </label>
+        <input type="text" name="greeting">
+        
+       </div>
+
+       </form>
